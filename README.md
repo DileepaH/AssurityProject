@@ -8,7 +8,7 @@ The sample out put is given below.
 
 - Name  = "Carbon credits"
 - CanRelist = true
-- The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"
+- The Promotions element with Name = "Gallery" has a Description that contains the text "Good position in category"
 
 ## Prerequisits
 
